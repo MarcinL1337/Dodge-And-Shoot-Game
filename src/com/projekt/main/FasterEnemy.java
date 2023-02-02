@@ -18,7 +18,7 @@ public class FasterEnemy extends Objects
 
     private void loadImage()
     {
-        ImageIcon ii = new ImageIcon("/D:/Java/Projekt/src/sprites/fasterEnemy.png");
+        ImageIcon ii = new ImageIcon("src/sprites/fasterEnemy.png");
         fasterEnemyImage = ii.getImage();
     }
 
